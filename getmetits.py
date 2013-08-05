@@ -1,8 +1,8 @@
 #!/usr/bin/python
 """
-Nice Tits Collector
+Nice Tits Collector [NSFW]
 
-Crawler used to collect all pics liked by reddit.com/user/Only_Says_Nice_Tits
+Crawler used to collect all pics reddit user 'Only_Says_Nice_Tits' commented on.
 
 Developed on Python 2.7.3
 
